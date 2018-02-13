@@ -1,0 +1,6 @@
+-   id: isort
+    name: isort
+    description: This hook runs isort.
+    entry: isort
+    language: system
+    files: \.py$
